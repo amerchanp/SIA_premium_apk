@@ -10,6 +10,10 @@ En este caso utilizaremos la forma de encontrar un número primo dividiendo n en
 A continuación, encotraremos un pseudocódigo con el ejercicio planteado.
 
 ```
+[variables]
+n : entero
+i : entero
+j : entero
 Inicio
     Leer n
     Para i desde 2 hasta n hacer
