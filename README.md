@@ -61,4 +61,4 @@ flowchart TD;
 5. Si se revisán todos los candidatos, los que no cambiaron la variable falso, serán primos.
 6. Se imprime i y se cierra el programa.
 
-#### Eso es todo, gracias por la atención y chao.
+#### Eso es todo, gracias por la atención.
